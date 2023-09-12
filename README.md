@@ -1,5 +1,5 @@
 # Projeto Final: KImóveis - TypeORM com Relacionamentos
-Neste projeto o objetivo foi desenvolver uma aolicação para o gerenciamento de uma imobiliária.
+Neste projeto o objetivo foi desenvolver uma aplicação para o gerenciamento de uma imobiliária.
 Através da aplicação é possível realizar o cadastro de imóveis e de usuários interessados na aquisição de propriedades. Além disso, é possível realizar o agendamento e consultar horários de visitas às propriedades disponíveis no banco de dados da imobiliária.
 
 Tecnologias: TypeScript, TypeORM, Express, NodeJs, Bcryptjs (para criptografia de senhas),jsonwebtoken (para autenticação e autorização), serialização com Zod.
