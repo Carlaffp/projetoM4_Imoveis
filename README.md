@@ -2,7 +2,7 @@
 Neste projeto o objetivo foi desenvolver uma aplicação para o gerenciamento de uma imobiliária.
 Através da aplicação é possível realizar o cadastro de imóveis e de usuários interessados na aquisição de propriedades. Além disso, é possível realizar o agendamento e consultar horários de visitas às propriedades disponíveis no banco de dados da imobiliária.
 
-Tecnologias: TypeScript, TypeORM, Express, NodeJs, Bcryptjs (para criptografia de senhas),jsonwebtoken (para autenticação e autorização), serialização com Zod.
+Tecnologias: TypeScript, TypeORM, Express, NodeJs, PostgreSQL, Bcryptjs (para criptografia de senhas),jsonwebtoken (para autenticação e autorização), serialização com Zod.
 
 ## Regras da entrega:
 **Criação das tabelas seguindo essas nomenclaturas para banco e entidade:**
